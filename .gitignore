@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / frontend
+node_modules/
+dist/
+
+# Docker
+*.log
+*.env
+
+# Kubernetes / Minikube
+*.kube/
